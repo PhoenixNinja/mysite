@@ -19,6 +19,7 @@ h1 {
 h2 {
     font-family: 'Montserrat', sans-serif;
     color: #66BFBF;
+    font-size : 40px;
 }
 #web {
     font-weight: normal;
@@ -30,16 +31,22 @@ h3 {
 a {
     color : #11999E;
     text-decoration: none;
+    margin : 20px;
 }
 .middleContainer {
 
 }
 .bottomContainer {
+    background-color: #66BFBF  ;
+    margin-top : 100px;
+    margin-bottom: 0;
+    line-height: 2;
+    padding: 20px;
 
 }
 .top-cloud {
     position : absolute;
-    left : 1000px;
+    left : 300px;
     top : 50px
 }
 .bottom-cloud {
@@ -66,4 +73,21 @@ a {
 .dp {
     width : 20%;
 }
+.btn {
+    margin : 20px;
+    padding :20px;
+    color: white;
+}
+.bck {
+    display : inline-block;
+    background-color: rgb(16, 101, 150);
+    border: 1px solid rgb(16, 101, 150) ;
+    border-radius: 4%;
+}
+.contact-me {
+    line-height: 2.5;
+}
 
+.copyright {
+    color : white;
+}
