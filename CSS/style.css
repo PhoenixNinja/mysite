@@ -38,7 +38,7 @@ a {
 }
 .bottomContainer {
     background-color: #66BFBF  ;
-    margin-top : 100px;
+    margin-top : 50px;
     margin-bottom: 0;
     line-height: 2;
     padding: 20px;
@@ -46,7 +46,7 @@ a {
 }
 .top-cloud {
     position : absolute;
-    left : 300px;
+    left : 60px;
     top : 50px
 }
 .bottom-cloud {
@@ -92,5 +92,5 @@ a {
     color : white;
 }
 .mountain-img {
-    width: auto;
+    width: 300px;
 }
