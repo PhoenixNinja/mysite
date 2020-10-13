@@ -21,6 +21,7 @@ h2 {
     font-family: 'Montserrat', sans-serif;
     color: #66BFBF;
     font-size : 40px;
+    padding-bottom: 20px;
 }
 #web {
     font-weight: normal;
@@ -35,6 +36,7 @@ a {
     margin : 20px;
 }
 .middleContainer {
+    margin : 100px 0;
 
 }
 .bottomContainer {
@@ -42,17 +44,17 @@ a {
     margin-top : 50px;
     margin-bottom: 0;
     line-height: 2;
-    padding: 20px;
+    padding : 20px;
 
 }
 .top-cloud {
     position : absolute;
-    left : 60px;
+    left : 200px;
     top : 50px
 }
 .bottom-cloud {
     position : absolute;
-    left : 100px;
+    left : 50px;
     bottom : 300px;
 }
 .skill-row {
@@ -64,7 +66,7 @@ a {
 .css-img  {
     width: 25%;
     float: left;
-    margin-right: 30px;
+    margin-right: 10px;
 }
 .js-img {
     width: 25%;
@@ -83,7 +85,6 @@ a {
     display : inline-block;
     background-color: rgb(16, 101, 150);
     border: 1px solid rgb(16, 101, 150) ;
-    border-radius: 4%;
 }
 .contact-me {
     line-height: 2.5;
@@ -100,4 +101,14 @@ hr {
     border-width: 10px;
     width : 10%;
     border-color: grey;
-    }
+    margin: 100px auto;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+.contact-message {
+    width : 40%;
+    margin : auto;
+    margin : 60px auto 80px;
+}
